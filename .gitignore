@@ -1,1 +1,4 @@
 .venv
+/Data/avg_stats.csv
+/Data/bat-tracking.csv
+/Data/exit_velocity.csv
